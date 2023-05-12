@@ -5,4 +5,4 @@ Fiz esse projeto pois participei de um curso na alura onde o objetivo era criar 
 | -------------  | --- |
 | :sparkles: Nome        | **Bateria Digital**
 | :label: Tecnologias | JavaScript, HTML, CSS
-| :rocket: URL         | 
+| :rocket: URL   https://projeto-alura-books-gamma.vercel.app/      | 
